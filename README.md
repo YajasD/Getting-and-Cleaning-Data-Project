@@ -42,7 +42,7 @@ I have created a script "run_analysis.R" that does the following:
 
 ### Running the script
 
-The script is self-sufficient, with the only requirement being setting your working directory to reflect the location of the files in your directory (Path to 'UCI HAR Dataset folder).
+The script is self-sufficient, with the only requirement being setting your working directory to reflect the location of the files in your directory (Path to 'UCI HAR Dataset' folder).
 
 
 
