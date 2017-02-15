@@ -1,10 +1,13 @@
 
 
-This document contains additional information about the run_analysis.R script.\
+This document contains additional information about the run_analysis.R script.
  
--Information about the data used may be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones\
+-Information about the data used may be found at
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones\
 
 -The run_analysis.R script does the following (in order):
+
 1. Reads the tables containing the description of the activities and the features extracted from the raw data.
 2. Reads all the files from the folder train.
 3. Organizes the files that have been read by providing them with column names. Creates an organized file containing proper column names called trainFinal.
@@ -22,10 +25,12 @@ This document contains additional information about the run_analysis.R script.\
 
 
 Key Columns:
-subjectID: ID numbers of the 30 subjects.
-Activity: Descriptions of the activities.
 
--Rest of the Columns:\
+-subjectID: ID numbers of the 30 subjects.
+-Activity: Descriptions of the activities.
+
+-Rest of the Columns:
+
  [1] \'94subjectID"                    "Activity"                    \
  [3] "activityID"                   "tBodyAccmeanX"               \
  [5] "tBodyAccmeanY"                "tBodyAccmeanZ"               \
