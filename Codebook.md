@@ -72,4 +72,4 @@ Key Columns
 [77] "fBodyGyrostdY"                "fBodyGyrostdZ"               \
 [79] "fBodyAccMagstd"               "fBodyBodyAccJerkMagstd"      \
 [81] "fBodyBodyGyroMagstd"          "fBodyBodyGyroJerkMagstd"     \
-> }
+
