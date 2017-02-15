@@ -24,14 +24,14 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 	'secondData.txt'94 which contains a second, independent tidy data set with the average of each variable for each activity and each subject from tidyData.txt
 
 
-Key Columns:
+Key Columns
 
--subjectID: ID numbers of the 30 subjects.
--Activity: Descriptions of the activities.
+1. subjectID: ID numbers of the 30 subjects.
+2. Activity: Descriptions of the activities.
 
 -Rest of the Columns:
 
- [1] \'94subjectID"                    "Activity"                    \
+ [1] "subjectID"                    "Activity"                    \
  [3] "activityID"                   "tBodyAccmeanX"               \
  [5] "tBodyAccmeanY"                "tBodyAccmeanZ"               \
  [7] "tGravityAccmeanX"             "tGravityAccmeanY"            \
